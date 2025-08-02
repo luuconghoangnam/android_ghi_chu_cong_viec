@@ -4,6 +4,10 @@
 
 ToDoList Ver1 là một ứng dụng Android đơn giản và hiệu quả để quản lý danh sách công việc hàng ngày. Ứng dụng cung cấp đầy đủ các tính năng cơ bản như thêm, sửa, xóa, tìm kiếm công việc với giao diện thân thiện và dễ sử dụng.
 
+## 📷 Giao diện ứng dụng
+
+![Giao diện ToDoList](ImagesReadme/ToDoList.png)
+
 ## ✨ Tính năng chính
 
 - **Quản lý công việc**: Thêm, sửa, xóa công việc
